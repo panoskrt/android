@@ -17,7 +17,7 @@
  ########################################################################
  **/
 
-package come.panoskrt.javaencrypt;
+package com.panoskrt.javaencrypt;
 
 import java.io.FileInputStream;
 import java.math.BigInteger;
